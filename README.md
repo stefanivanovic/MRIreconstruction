@@ -1,4 +1,4 @@
-# MRIreconstruction
+# MRI Reconstruction
 Optimizing MRI reconstruction for diagnosis 
 
 In this project varius MRI destructions are simulated. 
